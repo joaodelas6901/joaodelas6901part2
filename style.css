@@ -22,7 +22,7 @@ body{
 }
 
 img{
-    width: 50%;
+    width: 20%;
 }
 .titulo-principal{
     font-family: var(--roboto-mono);
